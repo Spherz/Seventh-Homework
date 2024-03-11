@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://hw_db:5432/kodehw
+    username: admin
+    password: C4$+zN;K*Gh`agj=HJ7[(m
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: create
+    defer-datasource-initialization: true
+  sql:
+    init:
+      mode: always
+springdoc:
+  swagger-ui:
+    path: /swagger-ui/index.html
