@@ -10,7 +10,7 @@
 2. Соберите docker-image
 > docker-compose build
 
-## Как запустить
+## Как запустить:
 
 > docker-compose up
 
