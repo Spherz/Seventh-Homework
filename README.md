@@ -16,4 +16,4 @@
 
 
 ## Тестирование:
-В адресной строке браузера введите [http](http://localhost:8080/swagger-ui/swagger-ui/index.html)
+В адресной строке браузера введите http://localhost:8080/swagger-ui/swagger-ui/index.html
